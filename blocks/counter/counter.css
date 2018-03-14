@@ -1,0 +1,10 @@
+@import "_size/counter_size_s.css";
+@import "_size/counter_size_m.css";
+@import "_size/counter_size_l.css";
+
+.counter {
+    border: 1px dashed #dedede;
+    background: #fffc1c;
+    padding: 1rem 2.5rem;
+    text-align: center;
+}
