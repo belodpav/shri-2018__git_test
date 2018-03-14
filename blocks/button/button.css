@@ -3,4 +3,5 @@
 @import "_size/button_size_l.css"; 
 .button {
   display: inline-block;
+  outline: none;
 }
