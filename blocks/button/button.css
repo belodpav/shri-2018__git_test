@@ -1,0 +1,7 @@
+@import "_size/button_size_s.css";
+@import "_size/button_size_m.css";
+@import "_size/button_size_l.css"; 
+.button {
+  display: inline-block;
+  outline: none;
+}
